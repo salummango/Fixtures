@@ -1,0 +1,20 @@
+[{
+        "name": "WeekendScheduling",
+        "value": {
+            "Friday": 1,
+            "Saturday": 4,
+            "Sunday": 3
+        }
+    },
+    {
+        "name": "LeagueStartDate",
+        "value": "2024-01-05"
+    },
+    {
+        "name": "InternationalScheduling",
+        "value": {
+            "HomeMatchBeforeDays": 3,
+            "NoLeagueGameIfAway": true
+        }
+    }
+]
